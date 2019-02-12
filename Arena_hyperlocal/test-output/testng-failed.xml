@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Testing HyperLocal Arena forms]">
+  <test thread-count="5" name="Testing Arena(failed)">
+    <classes>
+      <class name="com.arena.hyperlocal.arena_Accesory">
+        <methods>
+          <include name="arena_Accessoriesform"/>
+        </methods>
+      </class> <!-- com.arena.hyperlocal.arena_Accesory -->
+    </classes>
+  </test> <!-- Testing Arena(failed) -->
+</suite> <!-- Failed suite [Testing HyperLocal Arena forms] -->
